@@ -1,8 +1,10 @@
 # PwC-Internship
 Diversity and Inclusion
+
 Task-1 : Define relevant KPIs in hiring, promotion, performance, and turnover, and create a visualization.
 
 Here are the KPIs defined:
+
 *Hiring
 *Promotions
 *Turnover
